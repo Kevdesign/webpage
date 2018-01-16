@@ -1630,7 +1630,7 @@ body {
   opacity: 1;
 }
 .cid-qEawgbS5j3 .mbr-section-title {
-  color: #073b4c;
+  color: #001f2a;
 }
 .cid-qDSgkXdmpD .navbar {
   padding: .5rem 0;
@@ -2288,13 +2288,22 @@ body {
     padding-left: 30px;
   }
 }
+.cid-qGV6n52pXd H2 {
+  color: #001f2a;
+}
+.cid-qGV6n52pXd H4 {
+  color: #232323;
+}
+.cid-qGV6n52pXd H5 {
+  color: #232323;
+}
 .cid-qFKQiv0AT6 {
   padding-top: 90px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/abstract-geometric-faceted-background-animation-4yecjn3zl-f0000-1920x1080.png");
 }
 .cid-qFKQiv0AT6 .form-text {
-  color: #54d4ff;
+  color: #efefef;
 }
 @media (max-width: 767px) {
   .cid-qFKQiv0AT6 .content {

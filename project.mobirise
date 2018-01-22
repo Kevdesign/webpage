@@ -39,10 +39,11 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 171,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.6.2",
     "favicon": "@PROJECT_PATH@/assets/images/k-logo-b-2-01-128x128.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -387,7 +388,7 @@
                 "title": "Awards",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<br>▪ ▫ Red Dot Design Award 2016 - <a href=\"page3.html#features11-1d\">FlexiWhisk</a>&nbsp;<br>▪ Red Dot Design Award 2016 - <a href=\"page3.html#features11-23\">Tongner</a>&nbsp;<br>▪ Hong Kong ICT Awards 2014 - <a href=\"page2.html#features11-19\">mHand H1-B</a>\n<br>▪ Hong Kong RFID Awards 2013 - <a href=\"page2.html#features11-19\">mHand H1-B</a>\n<br>▪ Hong Kong ICT Awards 2011 - <a href=\"page2.html#features11-29\">MegaTray\n</a><br>▪ Hong Kong RFID Awards 2010 - <a href=\"page2.html#features11-29\">MegaTray</a>",
+                "text": "<br>▫ Red Dot Design Award 2016<br> <a href=\"page3.html#features11-1d\">FlexiWhisk</a>&nbsp;<br>▫&nbsp;Red Dot Design Award 2016<br><a href=\"page3.html#features11-23\">Tongner</a>&nbsp;<br>▫&nbsp;Hong Kong ICT Awards 2014<br><a href=\"page2.html#features11-19\">mHand H1-B</a>\n<br>▫&nbsp;Hong Kong RFID Awards 2013<br>&nbsp;<a href=\"page2.html#features11-19\">mHand H1-B</a>\n<br>▫&nbsp;Hong Kong ICT Awards 2011<br><a href=\"page2.html#features11-29\">MegaTray\n</a><br>▫&nbsp;Hong Kong RFID Awards 2010<br><a href=\"page2.html#features11-29\">MegaTray</a>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },

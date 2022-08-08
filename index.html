@@ -15,7 +15,7 @@ body {
 	background-image: url('facet paper.png');
 	background-attachment: fixed;
 	color: #333;
-	font-family: Questrial, Arial, Helvetica, sans-serif;
+	font-family: 'Questrial', sans-serif;
 }
 
 .box {
@@ -65,13 +65,21 @@ div.vertical {
    text-align: center;
 }
 
-div.title {
-	font-size: 200%
-	margin: 0px 50px 0px;
+p.title1 {
+	font-size: 70%;
+}
+
+p.title2 {
+	font-size: 150%; <!-- padding: -10px 10px 0px;-->
+	margin: 0px 0px;
+}
+
+p.title3 {
+	font-size: 80%; padding: 0% 5%;
 }
 
 div.emailme {
-	font-size: 50%
+	font-size: 60%
 }
 
 </style>
@@ -82,16 +90,16 @@ div.emailme {
 		<div class="horizontal">
 			<div class="vertical">
 				<div class="box">
-					<div class="title">
-						<p> Welcome to Kevin's Portfolio </p>
-					</div>
+					<p class="title1"> Welcome to my portfolio</p>
+					<p class="title2"> KEVIN SZETO </p>
+					<!-- <p class="title3"> Portfolio </p> -->
 					
 					<input style="margin: 10px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
 					<button id="loginbutton" type="button">Enter</button>
 					<p id="wrongPassword" style="display: none">wrong password</p>
 					<br><br>
 					<div class="emailme">
-					<p> <a href="mailto:kevinszeto@kev.com.hk">kevinszeto@kev.com.hk</a> </p>
+					<p> Please e-mail to <a href="mailto:kevinszeto@kev.com.hk">kevinszeto@kev.com.hk</a> for password.</p>
 					</div>
 				</div>
 			</div>
